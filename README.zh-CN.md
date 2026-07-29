@@ -59,3 +59,25 @@
 
 - 🌐 [axelfreeman.com](https://axelfreeman.com)
 - 💬 Telegram: [@axelfreeman](https://t.me/axelfreeman)
+
+---
+
+## 🔍 中文搜索关键词 · Baidu SEO
+
+`AI营销` `神经网络教程` `ChatGPT营销` `AEO是什么` `提示词教程` `AI内容生成` `营销自动化` `神经网络写文案` `俄罗斯AI工具` `AI降低成本` `什么是Token` `如何写提示词` `AI替代营销人员` `DeepSeek对比` `营销AI工具`
+
+---
+
+## 🔗 相关项目 · Related Projects
+
+| 项目 | 说明 |
+|------|------|
+| [🤖 AI Marketing Toolkit](https://gitee.com/axelfreeman/ai-marketing-toolkit) | AI 营销脚本与方法论 |
+| [🎙️ Voice → Article](https://gitee.com/axelfreeman/voice-to-article) | 语音转 SEO 文章流水线 |
+| [📝 Blog](https://gitee.com/axelfreeman/blog) | AI 营销与 OSINT 文章 |
+| [💼 ОткликМашина](https://gitee.com/axelfreeman/otklikmashina) | 自动应聘 Telegram 机器人 |
+| [🧠 Vibe Marketing](https://gitee.com/axelfreeman/vibe-marketing) | AI 营销内容库 |
+
+---
+
+*📖 [English](https://github.com/axelfreeman) · [Русский](https://axelfreeman.ru) · [Gitee](https://gitee.com/axelfreeman)*
