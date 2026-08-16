@@ -23,3 +23,6 @@ AI marketing fundamentals: what are tokens, how to write prompts, detecting AI-g
 - Main site: [axelfreeman.com](https://axelfreeman.com)
 - Author: [Axel Freeman](https://github.com/axelfreeman)
 - TAPAC: [tapacapi.com](https://tapacapi.com)
+---
+
+*Last updated: August 2026.*
